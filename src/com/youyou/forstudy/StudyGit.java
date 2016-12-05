@@ -6,5 +6,7 @@ public class StudyGit {
 		System.out.println("我的心深深的爱你");
 		System.out.println("我的心深深的爱你");
 		System.out.println("我的心深深的爱你");
+		
+		System.out.println("你是我心里的满足");
 	}
 }
